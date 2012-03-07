@@ -12,13 +12,12 @@ define('DB_PORT', $mysql_config["port"]);
 
 define('DB_CHARSET', 'utf8');
 define('DB_COLLATE', '');
-define ('WPLANG', '');
+define('WPLANG', 'ja');
 define('WP_DEBUG', false);
 
 require('wp-salt.php');
 
 $table_prefix  = 'wp_';
-define('WPLANG', 'ja');
 
 /* That's all, stop editing! Happy blogging. */
 
