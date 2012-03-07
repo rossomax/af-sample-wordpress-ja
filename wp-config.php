@@ -18,6 +18,7 @@ define('WP_DEBUG', false);
 require('wp-salt.php');
 
 $table_prefix  = 'wp_';
+define('WPLANG', 'ja');
 
 /* That's all, stop editing! Happy blogging. */
 
