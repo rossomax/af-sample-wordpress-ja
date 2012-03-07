@@ -2,7 +2,7 @@
 
 Steps to get the application to run:
 
-1. <code>git clone git://github.com/phpfog/af-sample-wordpress.git</code>
+1. <code>git clone git://github.com/rossomax/af-sample-wordpress-ja.git</code>
 2. <code>cd af-sample-wordpress</code>
 3. <code>echo "<?php" > wp-salt.php</code>
 4. <code>curl https://api.wordpress.org/secret-key/1.1/salt/ >> wp-salt.php</code>
